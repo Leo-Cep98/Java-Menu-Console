@@ -43,7 +43,7 @@ java MenuInteractivo
 ======================
 Enter an option:
 ```
-📜 ##License
+## 📜 License
 This project is licensed under the MIT License.
 
 ❤🖊️ Author
