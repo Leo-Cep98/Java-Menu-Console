@@ -21,7 +21,7 @@ I created this project as part of my personal bootcamp to reinforce my understan
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Java-Menu-Console.git
+git clone https://github.com/Leo-Cep98/Java-Menu-Console.git
 ```
 2. Navigate to the project folder
    `cd java-console-menu`
