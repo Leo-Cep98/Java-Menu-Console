@@ -31,7 +31,7 @@ git clone https://github.com/Leo-Cep98/Java-Menu-Console.git
 1. Make sure Java is installed (`java -version`)
 2. Compile the file:
 
-```bash
+```
 java MenuInteractivo
 
 
@@ -46,6 +46,6 @@ Enter an option:
 ## 📜 License
 This project is licensed under the MIT License.
 
-❤🖊️ Author
+## ❤🖊️ Author
 Made with love, curiosity, and coffee by Leonardo C. 🐼
 
