@@ -49,3 +49,9 @@ This project is licensed under the MIT License.
 ## ❤🖊️ Author
 Made with love, curiosity, and coffee by Leonardo C. 🐼
 
+---
+---
+# Contact
+
+📬 [GitHub](https://github.com/Leo-Cep98) | 🧠 Always learning, always growing 💡
+
